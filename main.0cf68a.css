@@ -728,6 +728,7 @@ body {
 	position: relative;
 	overflow: hidden;
 	background-image:url(img/QQ%E5%9B%BE%E7%89%8720190809191359.jpg);
+	background-repeat:cover;
 	-webkit-transition: all .2s ease-in;
 	display: -webkit-box;
 	-webkit-box-orient: horizontal;
